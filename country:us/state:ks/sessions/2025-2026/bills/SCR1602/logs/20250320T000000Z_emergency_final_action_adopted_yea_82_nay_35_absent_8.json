@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Emergency Final Action - Adopted; Yea 82, Nay 35, Absent 8",
+    "occurred_at": "2025-03-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/resolutions/SCR1602/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR1602"
+}

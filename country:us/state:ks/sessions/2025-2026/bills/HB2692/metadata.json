@@ -1,0 +1,219 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB2692",
+  "title": "Establishing standards of conduct for agents of the United States immigration and customs enforcement (ICE) prohibiting facial covering of agents, requiring vehicles be clearly marked, requiring judicial search warrants, prohibiting raids in places of worships, schools, daycare centers, hospitals and courts, requiring minimum training.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Immigration and Naturalization"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ks-2025_2026-hb2692"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Died in Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:50Z"
+      }
+    },
+    {
+      "description": "Withdrawn from House Committee on Interstate Cooperation; Referred to House Committee on Interstate Cooperation",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:50Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Federal and State Affairs",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:50Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Alexis Simmons",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alexis Simmons\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Alcala",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"John Alcala\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Amyx",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mike Amyx\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Abi Boatman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Abi Boatman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ford Carr",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford Carr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kirk Haskins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kirk Haskins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angela Martinez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Angela Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heather Meyer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Heather Meyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brooklynne Mosley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brooklynne Mosley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan Ruiz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Susan Ruiz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzanne Wikle",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Suzanne Wikle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rui Xu",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rui Xu\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/hb_2692/hb2692_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/hb_2692/hb2692_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As Introduced Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_hb2692_00_0000/fisc_note_hb2692_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_hb2692_00_0000/fisc_note_hb2692_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2692/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:50Z"
+  }
+}

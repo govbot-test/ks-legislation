@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee Report recommending resolution be adopted as amended by House Committee on Rules and Journal",
+    "occurred_at": "2025-01-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/resolutions/HR6004/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR6004"
+}

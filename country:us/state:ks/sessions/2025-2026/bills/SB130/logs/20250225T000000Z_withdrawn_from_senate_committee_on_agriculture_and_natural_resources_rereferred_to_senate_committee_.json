@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Withdrawn from Senate Committee on Agriculture and Natural Resources; Rereferred to Senate Committee on Agriculture and Natural Resources",
+    "occurred_at": "2025-02-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB130/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB130"
+}

@@ -1,0 +1,174 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB99",
+  "title": "Requiring the head of each state agency to certify the number of full-time positions paid from the state general fund that have been vacant for more than 180 calendar days and lapsing state general fund appropriations for such positions for fiscal year 2026.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Officers and Employees",
+    "State Agencies"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ks-2025_2026-sb99"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Died in Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Withdrawn from Calendar; Referred to Senate Committee on Ways and Means",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed as amended by Senate Committee on Government Efficiency",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Committee on Government Efficiency",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Committee on Government Efficiency",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Government Efficiency\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Amended by Senate Committee",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_99/sb99_01_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_99/sb99_01_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_99/sb99_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_99/sb99_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As Amended by Senate Committee Supplemental Note",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_sb99_01_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_sb99_01_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_sb99_00_0000/fisc_note_sb99_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_sb99_00_0000/fisc_note_sb99_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.gov/b2025_26/bills/SB99/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:49Z"
+  }
+}

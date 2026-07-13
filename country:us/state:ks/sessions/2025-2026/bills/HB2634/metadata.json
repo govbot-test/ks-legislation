@@ -1,0 +1,178 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB2634",
+  "title": "Requiring landlords to comply with a default maintenance code if the rental property is in a city or county that has not adopted a maintenance code.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Real Estate"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ks-2025_2026-hb2634"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Stricken from Calendar by Rule 1507",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Passed over and retain a place on the calendar",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed by House Committee on Local Government",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Local Government",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Leah Howell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Leah Howell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyndi Howerton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cyndi Howerton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robyn R. Essex",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Robyn R. Essex\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean Tarwater",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sean Tarwater\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/hb_2634/hb2634_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/hb_2634/hb2634_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As Introduced Supplemental Note",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_hb2634_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_hb2634_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_hb2634_00_0000/fisc_note_hb2634_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_hb2634_00_0000/fisc_note_hb2634_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2634/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:49Z"
+  }
+}

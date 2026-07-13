@@ -1,0 +1,180 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB2695",
+  "title": "Enacting the enhanced oversight and accountability for the prescription of psychotropic drug prescriptions act to require the secretary of health and environment to establish an online reporting system for adverse drug reactions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health and Environment, Department of",
+    "Named Acts"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ks-2025_2026-hb2695"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Died in Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Withdrawn from House Committee on Insurance; Rereferred to House Committee on Insurance",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Withdrawn from House Committee on Health and Human Services; Rereferred to House Committee on Health and Human Services",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Withdrawn from House Committee on Insurance; Referred to House Committee on Insurance",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Withdrawn from House Committee on Health and Human Services; Rereferred to House Committee on Health and Human Services",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Withdrawn from House Committee on Insurance; Referred to House Committee on Insurance",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Health and Human Services",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Steven K. Howe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steven K. Howe\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/hb_2695/hb2695_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/hb_2695/hb2695_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As Introduced Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_hb2695_00_0000/fisc_note_hb2695_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_hb2695_00_0000/fisc_note_hb2695_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2695/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:49Z"
+  }
+}

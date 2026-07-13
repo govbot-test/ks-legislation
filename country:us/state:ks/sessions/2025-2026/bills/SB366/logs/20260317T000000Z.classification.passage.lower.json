@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Final Action - Substitute passed; Yea 116, Nay 7, Absent 2",
+    "occurred_at": "2026-03-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB366/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB366"
+}

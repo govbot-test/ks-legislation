@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Withdrawn from House Committee on Taxation; Referred to House Committee on Taxation",
+    "occurred_at": "2026-02-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2757/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2757"
+}

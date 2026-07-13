@@ -1,0 +1,263 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB36",
+  "title": "Increasing the cap on the amount of moneys disbursed by the division of conservation to conservation districts and providing an increased matching basis for state moneys disbursed to conservation districts based on amounts allocated by the board of county commissioners for such districts.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ks-2025_2026-sb36"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Approved by Governor on Wednesday, March 26, 2025",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to Governor on Friday, March 21, 2025",
+      "date": "2025-03-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Emergency Final Action - Passed; Yea 119, Nay 2, Absent 4",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Motion to advance to Emergency Final Action adopted; \u2014",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed by House Committee on Agriculture and Natural Resources",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Agriculture and Natural Resources",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Received and Introduced",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Emergency Final Action - Passed; Yea 39, Nay 0, Absent 1",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed by Senate Committee on Agriculture and Natural Resources",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Committee on Agriculture and Natural Resources",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Committee on Agriculture and Natural Resources",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Agriculture and Natural Resources\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_36/sb36_enrolled.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_36/sb36_enrolled.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_36/sb36_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_36/sb36_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "As Introduced Supplemental Note",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_sb36_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_sb36_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_sb36_00_0000/fisc_note_sb36_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_sb36_00_0000/fisc_note_sb36_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.gov/b2025_26/bills/SB36/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:49Z"
+  }
+}

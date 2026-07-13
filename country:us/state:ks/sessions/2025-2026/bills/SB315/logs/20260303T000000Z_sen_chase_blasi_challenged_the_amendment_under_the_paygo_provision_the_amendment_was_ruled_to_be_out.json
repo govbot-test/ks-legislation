@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Sen. Chase Blasi challenged the amendment under the Pay-Go $provision$. The amendment was ruled to be out of order",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB315/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB315"
+}

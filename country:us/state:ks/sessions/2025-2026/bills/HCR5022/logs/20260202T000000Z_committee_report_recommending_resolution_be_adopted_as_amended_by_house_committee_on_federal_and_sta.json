@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee Report recommending resolution be adopted as amended by House Committee on Federal and State Affairs",
+    "occurred_at": "2026-02-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/resolutions/HCR5022/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR5022"
+}

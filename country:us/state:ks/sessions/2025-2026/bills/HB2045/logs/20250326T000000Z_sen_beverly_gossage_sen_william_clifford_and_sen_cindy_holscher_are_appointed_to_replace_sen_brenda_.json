@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Sen. Beverly Gossage, Sen. William Clifford, and Sen. Cindy Holscher are appointed to replace Sen. Brenda Dietrich, Sen. Michael Fagg, and Sen. Marci Francisco on the Conference Committee",
+    "occurred_at": "2025-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2045/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2045"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Vetoed by Governor; Returned to House on Monday, April 13, 2026",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2346/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2346"
+}

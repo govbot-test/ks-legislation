@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference Committee Report not adopted; Rep. Daniel Hawkins, Rep. Chris Croft and Rep. Tom Sawyer appointed as third conferees \u2014",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB82/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB82"
+}

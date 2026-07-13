@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Prefiled for Introduction on Friday, January 9, 2026",
+    "occurred_at": "2026-01-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2427/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2427"
+}

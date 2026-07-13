@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Prefiled for Introduction on Wednesday, January 8, 2025",
+    "occurred_at": "2025-01-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB2/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2"
+}

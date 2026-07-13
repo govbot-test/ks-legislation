@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Emergency Final Action - Adopted; Yea 40, Nay 0",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/resolutions/HCR5033/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR5033"
+}

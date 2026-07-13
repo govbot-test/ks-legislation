@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Sen. William Clifford raised a question of germaneness. The amendment was ruled germane.",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB66/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB66"
+}

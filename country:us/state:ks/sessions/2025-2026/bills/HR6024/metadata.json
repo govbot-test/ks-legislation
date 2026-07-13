@@ -1,0 +1,295 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HR6024",
+  "title": "Urging the Kansas Turnpike Authority to waive tolls for vehicles displaying Kansas special license plates related to injury, loss of life or valor in active military service",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "Resolutions"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ks-2025_2026-hr6024"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Died in Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:50Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Transportation",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:50Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Timothy Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Timothy Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bradley Barrett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bradley Barrett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis \"Bill\" Bloom",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lewis \\\"Bill\\\" Bloom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lauren Bohi",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lauren Bohi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Buehler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David Buehler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nathan Butler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nathan Butler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Duane Droge",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Duane Droge\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ronald Ellis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ronald Ellis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Charlotte Esau",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Charlotte Esau\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Goddard",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dan Goddard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dale Helwig",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dale Helwig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Hoffman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kyle Hoffman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan Humphries",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Susan Humphries\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick James",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rick James\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nikki McDonald",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nikki McDonald\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lynn Melton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lynn Melton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lance W. Neelly",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lance W. Neelly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Samantha Poetter Parshall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Samantha Poetter Parshall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mari-Lynn Poskin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mari-Lynn Poskin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ken Rahjes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ken Rahjes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clarke Sanders",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Clarke Sanders\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Schwertfeger",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kevin Schwertfeger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean Tarwater",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sean Tarwater\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Turk",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adam Turk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Wilborn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rick Wilborn\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/hr_6024/hr6024_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/hr_6024/hr6024_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.gov/b2025_26/resolutions/HR6024/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:50Z"
+  }
+}

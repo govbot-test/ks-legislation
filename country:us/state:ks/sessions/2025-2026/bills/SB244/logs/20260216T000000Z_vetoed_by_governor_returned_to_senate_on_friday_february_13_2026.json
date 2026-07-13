@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Vetoed by Governor; Returned to Senate on Friday, February 13, 2026",
+    "occurred_at": "2026-02-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB244/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB244"
+}

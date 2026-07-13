@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Final Action - Adopted as amended by required 2/3 Majority; Yea 90, Nay 28, Absent 7",
+    "occurred_at": "2025-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/resolutions/HCR5004/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR5004"
+}

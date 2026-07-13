@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "No motion to reconsider vetoed bill; Veto sustained",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB254/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB254"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion to suspend Joint Rule 4 (k) to allow consideration adopted; \u2014",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2763/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2763"
+}

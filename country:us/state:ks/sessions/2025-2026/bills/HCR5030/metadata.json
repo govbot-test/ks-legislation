@@ -1,0 +1,287 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HCR5030",
+  "title": "Urging Congress to enact immigration reform.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Resolutions"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ks-2025_2026-hcr5030"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Died in Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Federal and State Affairs",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Angela Martinez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Angela Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Alcala",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"John Alcala\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Abi Boatman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Abi Boatman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wanda Brownlee Paige",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wanda Brownlee Paige\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Carmichael",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"John Carmichael\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ford Carr",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford Carr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Linda Featherston",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Linda Featherston\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kirk Haskins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kirk Haskins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jo Ella Hoye",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jo Ella Hoye\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nikki McDonald",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nikki McDonald\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heather Meyer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Heather Meyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brooklynne Mosley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brooklynne Mosley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melissa Oropeza",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Melissa Oropeza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Osman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dan Osman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mari-Lynn Poskin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mari-Lynn Poskin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Louis Ruiz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Louis Ruiz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan Ruiz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Susan Ruiz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Sawyer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tom Sawyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie Sawyer Clayton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stephanie Sawyer Clayton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tobias Schlingensiepen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tobias Schlingensiepen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alexis Simmons",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alexis Simmons\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Virgil Weigel",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Virgil Weigel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzanne Wikle",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Suzanne Wikle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rui Xu",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rui Xu\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/hcr_5030/hcr5030_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/hcr_5030/hcr5030_00_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.gov/b2025_26/resolutions/HCR5030/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:49Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Committee Report be adopted",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB412/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB412"
+}

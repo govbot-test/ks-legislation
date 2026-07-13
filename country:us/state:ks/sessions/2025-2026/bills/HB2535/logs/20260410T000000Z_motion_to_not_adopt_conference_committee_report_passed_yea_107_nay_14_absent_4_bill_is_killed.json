@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion to not adopt Conference Committee Report passed; Yea 107, Nay 14, Absent 4 (Bill is killed)",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2535/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2535"
+}

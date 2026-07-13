@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee Report recommending bill be passed and placed on Consent Calendar by Senate Committee on Ways and Means",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2555/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2555"
+}

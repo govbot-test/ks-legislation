@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion to accede adopted; Rep. Susan Humphries, Rep. Laura Williams and Rep. Dan Osman appointed as conferees",
+    "occurred_at": "2025-03-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB186/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB186"
+}

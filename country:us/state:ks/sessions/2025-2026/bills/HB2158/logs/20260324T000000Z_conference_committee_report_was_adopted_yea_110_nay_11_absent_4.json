@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference Committee Report was adopted; Yea 110, Nay 11, Absent 4",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2158/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2158"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Nonconcurred with amendments; Conference Committee requested; appointed Rep. Pat Proctor, Rep. Paul Waggoner and Rep. Kirk Haskins",
+    "occurred_at": "2025-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2054/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2054"
+}

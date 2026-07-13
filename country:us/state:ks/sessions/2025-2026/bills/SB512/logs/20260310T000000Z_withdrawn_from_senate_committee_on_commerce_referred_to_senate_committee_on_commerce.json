@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Withdrawn from Senate Committee on Commerce; Referred to Senate Committee on Commerce",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB512/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB512"
+}

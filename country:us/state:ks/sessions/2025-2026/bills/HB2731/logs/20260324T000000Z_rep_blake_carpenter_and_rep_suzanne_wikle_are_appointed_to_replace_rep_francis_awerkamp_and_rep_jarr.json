@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rep. Blake Carpenter and Rep. Suzanne Wikle are appointed to replace Rep. Francis Awerkamp and Rep. Jarrod Ousley on the Conference Committee",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2731/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2731"
+}

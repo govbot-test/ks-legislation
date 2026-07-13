@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Vetoed by Governor; Returned to Senate on Tuesday, February 11, 2025",
+    "occurred_at": "2025-02-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB63/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB63"
+}

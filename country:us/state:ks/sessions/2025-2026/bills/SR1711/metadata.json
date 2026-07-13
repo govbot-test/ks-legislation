@@ -1,0 +1,361 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SR1711",
+  "title": "Honoring Michael Young for his outstanding work and contribution to our state as a talented artist and proud Kansas native.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ks-2025_2026-sr1711"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Enrolled on Friday, February 28, 2025",
+      "date": "2025-02-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:50Z"
+      }
+    },
+    {
+      "description": "Adopted without roll call",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:50Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeff Klemp",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jeff Klemp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larry Alley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Larry Alley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Argabright",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mike Argabright\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chase Blasi",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chase Blasi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tory Marie Blew",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tory Marie Blew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elaine Bowers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Elaine Bowers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Craig Bowser",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Craig Bowser\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Clifford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"William Clifford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ethan Corson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ethan Corson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brenda Dietrich",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brenda Dietrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Renee Erickson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Renee Erickson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Fagg",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Fagg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Oletha Faust Goudeau",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Oletha Faust Goudeau\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marci Francisco",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Marci Francisco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beverly Gossage",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Beverly Gossage\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Haley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David Haley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy Holscher",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cindy Holscher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Kloos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rick Kloos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ty Masterson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ty Masterson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephen Owens",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stephen Owens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Virgil Peck",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Virgil Peck\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Petersen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mike Petersen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pat Pettey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pat Pettey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "TJ Rose",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"TJ Rose\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ronald Ryckman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ronald Ryckman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Schmidt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Patrick Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Shallenburger",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tim Shallenburger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Doug Shane",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Doug Shane\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Starnes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brad Starnes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dinah Sykes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dinah Sykes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Thomas",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adam Thomas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kenny Titus",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kenny Titus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary Ware",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mary Ware\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kellie Warren",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kellie Warren\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sr_1711/sr1711_enrolled.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sr_1711/sr1711_enrolled.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.kslegislature.gov/b2025_26/resolutions/SR1711/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ks/government",
+    "name": "Kansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ks"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:50Z"
+  }
+}

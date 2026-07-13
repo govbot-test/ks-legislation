@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Concurred with amendments in conference; Yea 38, Nay 1, Absent 1",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB51/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB51"
+}

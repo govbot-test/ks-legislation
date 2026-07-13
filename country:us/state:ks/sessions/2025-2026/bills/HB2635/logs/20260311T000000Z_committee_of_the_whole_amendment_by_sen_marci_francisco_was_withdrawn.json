@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Amendment by Sen. Marci Francisco was withdrawn",
+    "occurred_at": "2026-03-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2635/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2635"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Final Action - Passed as amended; Yea 95, Nay 27, Absent 3",
+    "occurred_at": "2025-03-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2313/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2313"
+}

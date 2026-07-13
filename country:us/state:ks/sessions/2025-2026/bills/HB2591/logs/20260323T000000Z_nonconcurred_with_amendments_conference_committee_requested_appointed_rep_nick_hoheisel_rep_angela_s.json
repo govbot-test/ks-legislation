@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Nonconcurred with amendments; Conference Committee requested; appointed Rep. Nick Hoheisel, Rep. Angela Stiens and Rep. Rui Xu",
+    "occurred_at": "2026-03-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2591/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2591"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Motion to override line item veto failed; Line item veto 87(g), portion 88(a) 88(l)",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2513/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2513"
+}

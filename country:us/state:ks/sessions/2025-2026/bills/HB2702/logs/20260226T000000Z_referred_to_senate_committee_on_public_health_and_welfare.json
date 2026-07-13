@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Senate Committee on Public Health and Welfare",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2702/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2702"
+}

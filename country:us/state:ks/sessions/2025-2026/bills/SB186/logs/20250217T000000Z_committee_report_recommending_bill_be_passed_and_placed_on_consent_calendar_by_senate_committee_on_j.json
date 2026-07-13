@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee Report recommending bill be passed and placed on Consent Calendar by Senate Committee on Judiciary",
+    "occurred_at": "2025-02-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB186/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB186"
+}

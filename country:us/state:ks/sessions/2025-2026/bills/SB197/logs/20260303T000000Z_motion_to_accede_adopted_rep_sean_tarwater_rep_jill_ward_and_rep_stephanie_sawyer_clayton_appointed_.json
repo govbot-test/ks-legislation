@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion to accede adopted; Rep. Sean Tarwater, Rep. Jill Ward and Rep. Stephanie Sawyer Clayton appointed as conferees",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB197/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB197"
+}

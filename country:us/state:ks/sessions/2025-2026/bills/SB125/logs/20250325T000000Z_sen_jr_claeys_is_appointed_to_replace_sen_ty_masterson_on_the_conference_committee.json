@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Sen. J.R. Claeys is appointed to replace Sen. Ty Masterson on the Conference Committee",
+    "occurred_at": "2025-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB125/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB125"
+}

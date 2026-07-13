@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Approved by Governor except line item veto of Secs. 15(b) and (c); 26(a) portions; 30(a) portions; 37(a); 37(e); 38(d); 47; 53(b); 54(w); 54(s); 54(t); 54(u); 54(y); 60(c),61(i); 64(r); 65(s); 72(l); 74(p); 74(o); 81(g); 74(q); 77(b); 78(a) portions; 78(dd); 81(h); 87(f); 87(g); 88(l) 88(a) portions; 88(l); 88(a) portions; 88(k); 88(m); 96(d); 140(a) portions; 140(k); 153; 155; 163(a); 181(a). on Wednesday, April 8, 2026",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2513/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2513"
+}

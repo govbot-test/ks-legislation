@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Concurred with amendments in conference; Yea 31, Nay 9",
+    "occurred_at": "2025-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB227/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB227"
+}

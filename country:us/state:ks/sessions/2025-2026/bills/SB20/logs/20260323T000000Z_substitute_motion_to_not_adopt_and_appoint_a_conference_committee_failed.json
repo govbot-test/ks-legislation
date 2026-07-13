@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Substitute motion to not adopt and appoint a conference committee failed \u2014",
+    "occurred_at": "2026-03-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB20/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB20"
+}

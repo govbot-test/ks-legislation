@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference Committee Report not adopted; Rep. Susan Humphries, Rep. Laura Williams and Rep. Dan Osman appointed as second conferees Yea 69, Nay 55, Absent 1",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2422/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2422"
+}

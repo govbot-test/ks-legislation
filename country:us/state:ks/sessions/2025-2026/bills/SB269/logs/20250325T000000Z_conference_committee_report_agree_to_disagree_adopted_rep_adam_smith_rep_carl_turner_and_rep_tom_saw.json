@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference Committee Report agree to disagree adopted; Rep. Adam Smith, Rep. Carl Turner and Rep. Tom Sawyer appointed as second conferees",
+    "occurred_at": "2025-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB269/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB269"
+}

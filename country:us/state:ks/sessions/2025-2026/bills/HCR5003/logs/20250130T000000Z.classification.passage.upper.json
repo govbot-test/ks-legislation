@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Amendment by Sen. Tim Shallenburger was adopted",
+    "occurred_at": "2025-01-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/resolutions/HCR5003/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR5003"
+}

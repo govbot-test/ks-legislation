@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rep. Samantha Poetter Parshall raised a question of germaneness. The amendment was ruled germane.",
+    "occurred_at": "2025-03-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB35/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB35"
+}

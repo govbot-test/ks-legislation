@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee Report recommending bill be passed as amended by Senate Committee on Public Health and Welfare",
+    "occurred_at": "2025-03-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2311/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2311"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rep. Pat Proctor, Rep. Paul Waggoner, and Rep. Kirk Haskins are appointed to replace Rep. Will Carpenter, Rep. Ron Bryce, and Rep. Susan Ruiz on the Conference Committee",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2587/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2587"
+}

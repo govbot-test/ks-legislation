@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Motion to override line item veto failed; Line item veto Secs. a portion of 46(a), 46(c), 47, 63(x), 72(b), 73(f), a portion of 76(a), a portion of 76(b),a portion of 83(a), a portion of 89(a), 89(aa), a portion of 92(a), 118(h), 118(i), a portion of 121(a), 135(a), 177(b), 187(h), 188 sustained; Yea 82, Nay 42, Absent 1",
+    "occurred_at": "2025-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB125/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB125"
+}

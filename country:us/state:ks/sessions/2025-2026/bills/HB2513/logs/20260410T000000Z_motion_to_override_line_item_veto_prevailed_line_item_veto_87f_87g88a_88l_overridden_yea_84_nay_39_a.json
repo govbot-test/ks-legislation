@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Motion to override line item veto prevailed; Line item veto 87(f), 87(g),88(a), 88(l) overridden; Yea 84, Nay 39, Absent 2",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2513/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2513"
+}

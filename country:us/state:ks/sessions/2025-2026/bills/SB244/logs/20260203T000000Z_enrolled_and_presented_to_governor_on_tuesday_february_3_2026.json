@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Enrolled and presented to Governor on Tuesday, February 3, 2026",
+    "occurred_at": "2026-02-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB244/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB244"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Withdrawn from committee and referred separately to the Committee on Local Government, Transparency and Ethics and the Committee on Ways and Means",
+    "occurred_at": "2025-01-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB2/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2"
+}

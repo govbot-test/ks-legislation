@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Senate Committee on Education",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/SB349/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB349"
+}

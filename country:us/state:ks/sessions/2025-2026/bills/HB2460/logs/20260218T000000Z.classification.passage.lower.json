@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Final Action - Passed as amended; Yea 97, Nay 27, Absent 1",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2460/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2460"
+}

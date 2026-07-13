@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rep. Ken Rahjes, Rep. Lance W. Neelly, and Rep. Linda Featherston are appointed to replace Rep. Tom Kessler, Rep. Rebecca Schmoe, and Rep. Heather Meyer on the Conference Committee",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2505/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2505"
+}

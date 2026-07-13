@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Final Action - Passed as amended; Yea 118, Nay 5, Absent 2",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.kslegislature.gov/b2025_26/bills/HB2515/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2515"
+}
